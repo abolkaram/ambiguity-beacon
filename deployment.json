@@ -8,6 +8,7 @@
   "execution": "SUCCESS",
   "wallet": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
   "sourceSha256": "c8d0d26feab519785e24471b599a6822dfda287370673229c2192297cd69528a",
+  "sourceCommit": "fdb819131ecb22021d314fec3816ab516aee7c0a",
   "sourceMatchVerified": true,
   "repository": "https://github.com/abolkaram/ambiguity-beacon",
   "explorerAddress": "https://explorer-studio.genlayer.com/address/0xd94E9C28EBbFD757b63A3eF975654C5890551Ee5"
