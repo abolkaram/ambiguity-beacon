@@ -1,0 +1,15 @@
+{
+  "project": "ambiguity-beacon",
+  "network": "StudioNet",
+  "contractAddress": "0xd94E9C28EBbFD757b63A3eF975654C5890551Ee5",
+  "deploymentTransaction": "0x64763cf6097ea8f0903d1ab4bd15d0204585f9bee929241c5a562a5fd2ec0fb1",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "wallet": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
+  "sourceSha256": "c8d0d26feab519785e24471b599a6822dfda287370673229c2192297cd69528a",
+  "sourceMatchVerified": true,
+  "repository": "https://github.com/abolkaram/ambiguity-beacon",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0xd94E9C28EBbFD757b63A3eF975654C5890551Ee5"
+}
+

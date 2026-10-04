@@ -1,0 +1,8 @@
+{
+  "title": "Ambiguity Beacon",
+  "category": "Intelligent Contracts",
+  "primitive": "Paired interpretation fork detector with bounded clarification",
+  "network": "StudioNet",
+  "contract": "contracts/contract.py",
+  "frontend": false
+}

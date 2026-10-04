@@ -1,0 +1,13 @@
+{
+  "ruleId": "AB-LIVE-20261004",
+  "registerTransaction": "0x2f959247d26c5de819a00709ca9f778039abe051e7e9d2516fc3a9b7e36d032b",
+  "readerATransaction": "0x4fdbf478cda853af7c3caf1a79c3f183c6fd6568251979a888ec7c0cda347cfe",
+  "readerBTransaction": "0x3032a4377ec58f94aef3da2d7660ab085d5fb6da71b6b7d55f4662b791155869",
+  "compareTransaction": "0x37b8b95ecdcbad08aac5bdf35679f36780ab541d157a1f8859923fdd0e985641",
+  "executions": ["SUCCESS", "SUCCESS", "SUCCESS", "SUCCESS"],
+  "state": "AMBIGUOUS",
+  "divergentClauseIndexes": [0],
+  "divergentExampleIndexes": [0],
+  "fixtureDisclosure": "All three wallets and every rule example are operator-controlled fictional test fixtures."
+}
+
